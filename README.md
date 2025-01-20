@@ -27,4 +27,4 @@ pip install -r requirements.txt
 python -m app.main
 
 5. Manos a la Obra! 🚀
->>>>>>> a26ca76 (Primera versión del proyecto)
+
